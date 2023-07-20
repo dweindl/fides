@@ -9,4 +9,4 @@ recommonmark>=0.6.0
 sphinx_rtd_theme>=0.4.3
 sphinx-autodoc-typehints>=1.10.3
 sphinxcontrib-napoleon
-pygments==2.4.1
+pygments==2.15.0
